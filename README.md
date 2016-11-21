@@ -8,6 +8,7 @@ This is a self-contained project with the following stack
 ## Installation
 
 After you clone project, do
+
 1. `npm install` to install dev dev dependencies.
 2. `bower install` to install front end dependencies.
 
