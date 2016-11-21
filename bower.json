@@ -1,0 +1,21 @@
+{
+  "name": "hello-world-angular",
+  "description": "Hello world app for angular with unit testing",
+  "main": "index.js",
+  "authors": [
+    "Divyanth Jayaraj"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "angular-mocks": "^1.5.8"
+  }
+}
