@@ -3,7 +3,8 @@
 This is a self-contained project with the following stack
 
 1. Angular
-2. Gulp
+2. Pug
+3. Gulp
 
 ## Installation
 
